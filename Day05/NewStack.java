@@ -3,7 +3,6 @@ package Day05;
 import java.util.Stack;
 
 public class NewStack {
-    public Object push;
     Stack<Character> list = new Stack<>();
 
     public void push(char c) {
